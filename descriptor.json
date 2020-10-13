@@ -4,26 +4,26 @@
     name: "Demo Gauge",
     description: "A gauge demo",
     newInstancePrefix: "Gauge",
-    icon: "/gauge/icon.png",
+    icon: "https://github.com/amontagnaEstilos/sacWidgetGauge/blob/main/resources/icon.png",
     vendor: "Demo",
     eula: "EULA",
     license: "1.0",
     webcomponents: [{
             kind: "main",
             tag: "ai-estilos-amontagna-demo-gauge",
-            url: "/gauge/gauge.js",
+            url: "https://github.com/amontagnaEstilos/sacWidgetGauge/blob/main/resources/gauge.js",
             integrity: "",
             ignoreIntegrity: true
         }, {
             kind: "styling",
             tag: "ai-estilos-amontagna-demo-gauge-sps",
-            url: "/gauge/gauge_sps.js",
+            url: "https://github.com/amontagnaEstilos/sacWidgetGauge/blob/main/resources/sps.js",
             integrity: "",
             ignoreIntegrity: true
         }, {
             kind: "builder",
             tag: "ai-estilos-amontagna-demo-gauge-bps",
-            url: "/gauge/gauge_bps.js",
+            url: "https://github.com/amontagnaEstilos/sacWidgetGauge/blob/main/resources/bps.js",
             integrity: "",
             ignoreIntegrity: true
         }
